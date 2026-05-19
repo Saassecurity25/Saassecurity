@@ -159,4 +159,4 @@ companies comply with regulations
 cloud tools remain safe to use
 
 Contact on Gmail 
-saassecurity25@atomic.oi
+saassecurity25@atomicmail.io
